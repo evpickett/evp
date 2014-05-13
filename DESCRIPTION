@@ -1,0 +1,10 @@
+Package: evp
+Title: Personal functions for Evan J Pickett
+Version: 0.1
+Authors@R: person("Evan", "Pickett", email= "epickett@hku.hk",
+    role=c("aut","cre"))
+Description: Personal package for Evan J Pickett
+Depends:
+    R (>= 3.1.0)
+License: CC
+LazyData: true
